@@ -1,4 +1,4 @@
-# brasil_info
+# Brasil Info
 
 A new Flutter project.
 
